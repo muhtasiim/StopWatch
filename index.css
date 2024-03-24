@@ -12,11 +12,11 @@ body{
 .container{
     background-color: rgb(8, 16, 16);
     width: 500px;
-    padding: 43px;
+    padding: 42px;
     text-align: center;
     
     margin-left: 33%;
-    margin-top: 4%;
+    margin-top: 5%;
 }
 .container .txt{
     font-size: 80px;
@@ -30,7 +30,7 @@ body{
  
 .container button{
     width: 120px;
-    height: 38px;
+    height: 40px;
     border: none;
     background-color: rgb(233, 13, 13);
     color: white;
