@@ -4,7 +4,6 @@
  let milli = 0;
 
  let timer = false;
-
  function start(){
     timer = true;
     stopwatch()
@@ -75,9 +74,7 @@
         document.getElementById("hr").innerHTML=getHr; 
         document.getElementById("milli").innerHTML=milli; 
 
-
-
-       let timeOut = setTimeout("stopwatch()", 8);
+        let timeOut = setTimeout("stopwatch()", 8);
         
     }
  }
