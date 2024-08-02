@@ -25,10 +25,6 @@
     // sec=0;
     // milli=0;
 
-    //     document.getElementById("milli").innerHTML= "00" ;     
-    //     document.getElementById("sec").innerHTML= "00" ;
-    //     document.getElementById("min").innerHTML="00"; 
-    //     document.getElementById("hr").innerHTML="00"; 
     location.reload();
  }
 
