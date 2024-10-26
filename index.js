@@ -26,6 +26,7 @@
     // milli=0;
 
     location.reload();
+ 
  }
 
 
