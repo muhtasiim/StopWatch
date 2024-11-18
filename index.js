@@ -25,7 +25,8 @@
     // sec=0;
     // milli=0;
 
-    location.reload();
+    
+  location.reload();
  
  }
 
@@ -35,7 +36,8 @@
     if(timer == true){
 
        milli = milli + 1;
-       if(milli == 100){
+       
+        if(milli == 100){
         sec = sec +1;
         milli=0
        }
