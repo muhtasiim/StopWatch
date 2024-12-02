@@ -20,8 +20,7 @@
  function reset(){
     
 
-    
-  location.reload();
+   location.reload();
  
  }
 
@@ -62,6 +61,7 @@
             getS = "0"+ sec;
         }
 
+        
         document.getElementById("sec").innerHTML= getS ;
         document.getElementById("min").innerHTML=getMin; 
         document.getElementById("hr").innerHTML=getHr; 
