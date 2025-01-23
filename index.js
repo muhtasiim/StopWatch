@@ -38,6 +38,7 @@
         // sec = sec +1;
        
  
+        
         if(sec == 60){
             min = min+1;
             sec=0;
@@ -47,6 +48,7 @@
             min = 0;
         } 
         
+       
         var getHr = hr;
         var getMin = min;
         var getS = sec;
